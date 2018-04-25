@@ -99,12 +99,6 @@ All custom input props and number input props are passed together.
   <NumberFormat hintText="Some placeholder" value={this.state.card} customInput={TextField} format="#### #### #### ####"/>
 ```
 
-### Live Demo
-[http://codepen.io/s-yadav/pen/bpKNMa](http://codepen.io/s-yadav/pen/bpKNMa)
-
-### Show your support
-[:star: this repo](https://github.com/s-yadav/react-number-format)
-
 ### Development
 - Download the zip
 - `npm install`
